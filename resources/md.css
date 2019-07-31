@@ -1,0 +1,32 @@
+div.md {
+     background: white;
+     font-family: BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: 1em;
+     color: rgb(41, 41, 41);
+}
+
+div.md h1 {
+     margin-bottom: 30px;
+     padding-bottom: 15px;
+     border-bottom: 1px solid rgb(236, 236, 236);
+     padding-right: 250px;
+}
+
+div.md h2 {
+     margin-bottom: 25px;
+     padding-bottom: 15px;
+     border-bottom: 1px solid rgb(236, 236, 236);
+}
+
+div.md a {
+     color: #333fe0;
+     text-decoration: none;
+}
+
+div.md a:hover {
+     text-decoration: underline;
+}
+
+div.md ul li {
+     margin-top: 5px;
+}

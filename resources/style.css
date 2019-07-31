@@ -1,0 +1,50 @@
+body {
+     margin: 0;
+     padding: 0;
+     font-size: 12.5pt;
+}
+
+header {
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     background-color: azure;
+     color: darkcyan;
+     padding: 20px 0 20px 0;
+     margin-bottom: 50px;
+     border-bottom: 1px solid darkcyan
+}
+
+header h1 {
+     padding: 0;
+     margin: 0;
+     margin-bottom: 10px;
+}
+
+header h1, header a {
+     margin-left: 10%;
+}
+
+header a {
+     text-decoration: none;
+     color: lightskyblue;
+}
+
+header a:hover {
+     text-decoration: underline;
+}
+
+div.md {
+     border: 1px solid lightgray;
+     border-radius: 5px;
+     padding: 0 5% 0 5%;
+     margin-left: 15%;
+     margin-right: 15%;
+     margin-bottom: 50px;
+}
+
+div.home {
+     margin-left: 10%;
+     margin-right: 10%;
+     border: 1px solid lightgray;
+     padding-left: 5%;
+     border-radius: 5px;
+}
